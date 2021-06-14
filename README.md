@@ -8,7 +8,6 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [Emacs Lisp](#emacs-lisp)
   - [Haskell](#haskell)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
@@ -41,10 +40,6 @@
 ## CSS 
 
 - [heroku/12factor](https://github.com/heroku/12factor) - 
-
-## Emacs Lisp 
-
-- [sudeepdino008/emacs-configuration](https://github.com/sudeepdino008/emacs-configuration) - Contains my .emacs file .emacs.d directory.
 
 ## Haskell 
 
