@@ -24,6 +24,7 @@
 
 ## C 
 
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [jvns/kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
 - [Kernel-GL-HRK/gl-kernel-training-2017](https://github.com/Kernel-GL-HRK/gl-kernel-training-2017) - Linux kernel general course by GlobalLogic Kharkiv, 2017
 - [agelastic/eudyptula](https://github.com/agelastic/eudyptula) - www.eudyptula-challenge.org
