@@ -8,6 +8,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [HTML](#html)
   - [Haskell](#haskell)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
@@ -42,6 +43,10 @@
 
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 
+## HTML 
+
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+
 ## Haskell 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -61,6 +66,8 @@
 
 ## Others 
 
+- [ipfs/specs](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack
+- [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [burkesquires/tech-books-library](https://github.com/burkesquires/tech-books-library) - 📚e-books in PDF and ePub formats across a wide range of technology stacks and topics
