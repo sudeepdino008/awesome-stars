@@ -66,6 +66,7 @@
 
 ## Others 
 
+- [kragen/knuth-interview-2006](https://github.com/kragen/knuth-interview-2006) - The transcript of a Donald Knuth interview in 2006
 - [ipfs/specs](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
