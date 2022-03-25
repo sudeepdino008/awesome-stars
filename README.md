@@ -26,6 +26,8 @@
 
 ## C 
 
+- [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
+- [winterfellding/tlpi-docker](https://github.com/winterfellding/tlpi-docker) - docker environment for learning the linux programming interface
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [jvns/kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
 - [Kernel-GL-HRK/gl-kernel-training-2017](https://github.com/Kernel-GL-HRK/gl-kernel-training-2017) - Linux kernel general course by GlobalLogic Kharkiv, 2017
@@ -47,6 +49,7 @@
 
 ## Go 
 
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## HTML 
