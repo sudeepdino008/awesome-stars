@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [wealdtech/go-merkletree](https://github.com/wealdtech/go-merkletree) - 
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
@@ -77,6 +78,8 @@
 
 ## Others 
 
+- [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum with Rust flavor!
+- [filecoin-project/fvm-specs](https://github.com/filecoin-project/fvm-specs) - home of the FVM (Filecoin Virtual Machine) project ⚙️
 - [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
@@ -95,6 +98,7 @@
 
 ## Python 
 
+- [kragniz/omochabako](https://github.com/kragniz/omochabako) - Toy container runtime, capable of running docker images
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [makelinux/linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
