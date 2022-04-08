@@ -15,6 +15,7 @@
   - [Markdown](#markdown)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [Perl](#perl)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -49,6 +50,8 @@
 
 ## Go 
 
+- [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
+- [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - A toolkit helps upload files to IPFS pinning services.
 - [wealdtech/go-merkletree](https://github.com/wealdtech/go-merkletree) - 
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -95,6 +98,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+
+## Perl 
+
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Python 
 
