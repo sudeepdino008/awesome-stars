@@ -50,6 +50,8 @@
 
 ## Go 
 
+- [CoinCulture/evm-tools](https://github.com/CoinCulture/evm-tools) - Ethereum Virtual Machine tools and guide
+- [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) - Ethereum implementation on the efficiency frontier
 - [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
 - [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - A toolkit helps upload files to IPFS pinning services.
 - [wealdtech/go-merkletree](https://github.com/wealdtech/go-merkletree) - 
@@ -81,6 +83,7 @@
 
 ## Others 
 
+- [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum with Rust flavor!
 - [filecoin-project/fvm-specs](https://github.com/filecoin-project/fvm-specs) - home of the FVM (Filecoin Virtual Machine) project ⚙️
 - [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
@@ -141,6 +144,7 @@
 
 ## Shell 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [michaelklishin/jdk_switcher](https://github.com/michaelklishin/jdk_switcher) - A yet another Ubuntu/Debian-specific tool that makes switching between multiple JDK versions a one liner
 
