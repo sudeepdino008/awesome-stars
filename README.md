@@ -46,6 +46,7 @@
 
 ## CSS 
 
+- [libp2p/docs](https://github.com/libp2p/docs) - ***WIP**** 🤖 📚 Documentation website for the libp2p project. https://docs.libp2p.io/
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 
 ## Go 
@@ -69,6 +70,7 @@
 
 ## JavaScript 
 
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [AABoyles/LessWrong-Portable](https://github.com/AABoyles/LessWrong-Portable) - Make EBooks from LessWrong 2.0 and other sources of interest to the aspiring rationalist community
 - [ncase/polygons](https://github.com/ncase/polygons) - A playable post on how harmless choices can make a harmful world.
 
@@ -108,6 +110,7 @@
 
 ## Python 
 
+- [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [kragniz/omochabako](https://github.com/kragniz/omochabako) - Toy container runtime, capable of running docker images
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [makelinux/linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
