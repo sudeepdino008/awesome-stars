@@ -28,6 +28,7 @@
 
 ## C 
 
+- [rmascarenhas/lpi](https://github.com/rmascarenhas/lpi) - My solutions for the exercises of The Linux Programming Interface book
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [winterfellding/tlpi-docker](https://github.com/winterfellding/tlpi-docker) - docker environment for learning the linux programming interface
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
