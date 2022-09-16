@@ -67,7 +67,6 @@
 ## HTML 
 
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 
 ## Haskell 
 
@@ -77,6 +76,7 @@
 
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [AABoyles/LessWrong-Portable](https://github.com/AABoyles/LessWrong-Portable) - Make EBooks from LessWrong 2.0 and other sources of interest to the aspiring rationalist community
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [ncase/polygons](https://github.com/ncase/polygons) - A playable post on how harmless choices can make a harmful world.
 
 ## Markdown 
