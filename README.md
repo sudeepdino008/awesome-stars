@@ -49,7 +49,7 @@
 
 ## CSS 
 
-- [libp2p/docs](https://github.com/libp2p/docs) - Official documentation for the libp2p project.
+- [libp2p/docs](https://github.com/libp2p/docs) - Documentation site for the libp2p project.
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 
 ## Go 
