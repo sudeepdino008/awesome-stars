@@ -49,6 +49,7 @@
 
 ## CSS 
 
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [libp2p/docs](https://github.com/libp2p/docs) - Documentation site for the libp2p project.
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 
