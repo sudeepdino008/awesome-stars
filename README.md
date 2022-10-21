@@ -29,6 +29,7 @@
 
 ## C 
 
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [rmascarenhas/lpi](https://github.com/rmascarenhas/lpi) - My solutions for the exercises of The Linux Programming Interface book
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [winterfellding/tlpi-docker](https://github.com/winterfellding/tlpi-docker) - docker environment for learning the linux programming interface
