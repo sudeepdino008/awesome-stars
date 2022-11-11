@@ -76,7 +76,7 @@
 
 ## JavaScript 
 
-- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
+- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [AABoyles/LessWrong-Portable](https://github.com/AABoyles/LessWrong-Portable) - Make EBooks from LessWrong 2.0 and other sources of interest to the aspiring rationalist community
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
@@ -84,6 +84,7 @@
 
 ## Makefile 
 
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [ipfs/specs](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack
 
 ## Markdown 
@@ -137,7 +138,7 @@
 ## Rust 
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - A cargo plugin for showing a tree-like overview of a crate's modules.
+- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Render your crate's module/item structure as a tree or graph
 - [rhysd/wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -159,7 +160,6 @@
 
 ## Shell 
 
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [michaelklishin/jdk_switcher](https://github.com/michaelklishin/jdk_switcher) - A yet another Ubuntu/Debian-specific tool that makes switching between multiple JDK versions a one liner
