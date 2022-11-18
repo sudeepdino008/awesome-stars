@@ -51,7 +51,6 @@
 
 ## CSS 
 
-- [libp2p/docs](https://github.com/libp2p/docs) - Documentation site for the libp2p project.
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 
 ## Go 
@@ -68,6 +67,7 @@
 
 ## HTML 
 
+- [libp2p/docs](https://github.com/libp2p/docs) - Documentation site for the libp2p project.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
 ## Haskell 
@@ -84,7 +84,6 @@
 
 ## Makefile 
 
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [ipfs/specs](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack
 
 ## Markdown 
@@ -160,6 +159,7 @@
 
 ## Shell 
 
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [michaelklishin/jdk_switcher](https://github.com/michaelklishin/jdk_switcher) - A yet another Ubuntu/Debian-specific tool that makes switching between multiple JDK versions a one liner
