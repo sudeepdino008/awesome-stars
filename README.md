@@ -98,7 +98,7 @@
 ## Others 
 
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
-- [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum with Rust flavor!
+- [omaritan/Rusty-CS](https://github.com/omaritan/Rusty-CS) - A Computer Science Curriculum with Rust flavor!
 - [filecoin-project/fvm-specs](https://github.com/filecoin-project/fvm-specs) - home of the FVM (Filecoin Virtual Machine) project ⚙️
 - [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
