@@ -20,7 +20,6 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Solidity](#solidity)
@@ -69,6 +68,7 @@
 
 - [libp2p/docs](https://github.com/libp2p/docs) - Documentation site for the libp2p project.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+- [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 
 ## Haskell 
 
@@ -149,10 +149,6 @@
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [fede1024/kafka-benchmark](https://github.com/fede1024/kafka-benchmark) - A tool to run benchmarks on Kafka clusters
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-
-## SCSS 
-
-- [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 
 ## Scheme 
 
