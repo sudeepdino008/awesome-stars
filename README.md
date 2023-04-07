@@ -27,6 +27,7 @@
 
 ## C 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [rmascarenhas/lpi](https://github.com/rmascarenhas/lpi) - My solutions for the exercises of The Linux Programming Interface book
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
@@ -94,6 +95,7 @@
 
 ## Others 
 
+- [OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum with Rust flavor!
 - [filecoin-project/fvm-specs](https://github.com/filecoin-project/fvm-specs) - home of the FVM (Filecoin Virtual Machine) project ⚙️
