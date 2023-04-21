@@ -24,6 +24,7 @@
 - [Solidity](#solidity)
 - [Swift](#swift)
 - [TeX](#tex)
+- [TypeScript](#typescript)
 
 ## C 
 
@@ -170,6 +171,10 @@
 ## TeX 
 
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
+
+## TypeScript 
+
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 
 
 ## License
