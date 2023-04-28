@@ -8,6 +8,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -52,6 +53,10 @@
 ## CSS 
 
 - [heroku/12factor](https://github.com/heroku/12factor) - 
+
+## Elixir 
+
+- [hrzndhrn/beam_file](https://github.com/hrzndhrn/beam_file) - BeamFile - A peek into the BEAM file
 
 ## Go 
 
