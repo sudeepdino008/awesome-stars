@@ -52,6 +52,7 @@
 
 ## CSS 
 
+- [vbuterin/blogmaker](https://github.com/vbuterin/blogmaker) - The self-made software package I used to make my blog. Feel free to use it!
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 
 ## Elixir 
@@ -101,6 +102,7 @@
 
 ## Others 
 
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
 - [nforest/awesome-decompilation](https://github.com/nforest/awesome-decompilation) - A curated list of awesome decompilation resources and projects.
 - [OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!
@@ -128,6 +130,8 @@
 
 ## Python 
 
+- [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
+- [sevaa/dwex](https://github.com/sevaa/dwex) - DWARF Explorer - a GUI utility for navigating the DWARF debug information
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [kragniz/omochabako](https://github.com/kragniz/omochabako) - Toy container runtime, capable of running docker images
