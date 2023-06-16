@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -91,6 +92,10 @@
 - [AABoyles/LessWrong-Portable](https://github.com/AABoyles/LessWrong-Portable) - Make EBooks from LessWrong 2.0 and other sources of interest to the aspiring rationalist community
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [ncase/polygons](https://github.com/ncase/polygons) - A playable post on how harmless choices can make a harmful world.
+
+## Jupyter Notebook 
+
+- [veekaybee/what_are_embeddings](https://github.com/veekaybee/what_are_embeddings) - A deep dive into embeddings starting from fundamentals
 
 ## Markdown 
 
@@ -184,6 +189,7 @@
 
 ## TeX 
 
+- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 
 ## TypeScript 
