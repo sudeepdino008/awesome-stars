@@ -115,6 +115,7 @@
 
 ## Others 
 
+- [odradev/awesome-zero-knowledge](https://github.com/odradev/awesome-zero-knowledge) - A curated list of Zero Knowledge links, mostly focusing on blockchain.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
 - [nforest/awesome-decompilation](https://github.com/nforest/awesome-decompilation) - A curated list of awesome decompilation resources and projects.
@@ -143,6 +144,7 @@
 
 ## Python 
 
+- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo)
 - [ethereum/execution-specs](https://github.com/ethereum/execution-specs) - Specification for the Execution Layer. Tracking network upgrades.
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [sevaa/dwex](https://github.com/sevaa/dwex) - DWARF Explorer - a GUI utility for navigating the DWARF debug information
