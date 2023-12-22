@@ -93,7 +93,7 @@
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [AABoyles/LessWrong-Portable](https://github.com/AABoyles/LessWrong-Portable) - Make EBooks from LessWrong 2.0 and other sources of interest to the aspiring rationalist community
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [ncase/polygons](https://github.com/ncase/polygons) - A playable post on how harmless choices can make a harmful world.
 
 ## Jupyter Notebook 
