@@ -26,7 +26,6 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Swift](#swift)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 
 ## C 
@@ -196,10 +195,6 @@
 ## Swift 
 
 - [broadwaylamb/SuperMirror](https://github.com/broadwaylamb/SuperMirror) - If a Swift type conforms to CustomReflectable, it's hard to reverse engineer it. This single-file library makes it super easy.
-
-## TeX 
-
-- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## TypeScript 
 
