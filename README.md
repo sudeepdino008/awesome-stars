@@ -148,7 +148,7 @@
 - [ethereum/execution-specs](https://github.com/ethereum/execution-specs) - Specification for the Execution Layer. Tracking network upgrades.
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [sevaa/dwex](https://github.com/sevaa/dwex) - DWARF Explorer - a GUI utility for navigating the DWARF debug information
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [kragniz/omochabako](https://github.com/kragniz/omochabako) - Toy container runtime, capable of running docker images
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
