@@ -167,6 +167,7 @@
 
 ## Rust 
 
+- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: High-speed recursive arguments from folding schemes
 - [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero) - Aero is a new modern, experimental, UNIX-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a f
