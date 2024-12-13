@@ -22,12 +22,13 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [WebAssembly](#webassembly)
+- [Zig](#zig)
 
 ## C 
 
@@ -117,6 +118,7 @@
 
 ## Others 
 
+- [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [Dicklesworthstone/grassmann_article](https://github.com/Dicklesworthstone/grassmann_article) - 
 - [odradev/awesome-zero-knowledge](https://github.com/odradev/awesome-zero-knowledge) - A curated list of Zero Knowledge links, mostly focusing on blockchain.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -183,10 +185,6 @@
 - [fede1024/kafka-benchmark](https://github.com/fede1024/kafka-benchmark) - A tool to run benchmarks on Kafka clusters
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 
-## Scheme 
-
-- [samirose/sicp-compiler-project](https://github.com/samirose/sicp-compiler-project) - A Scheme to WAT/WASM compiler in spirit of SICP exercises 5.49-52
-
 ## Shell 
 
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -210,7 +208,15 @@
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [wmitsuda/mdbx-navigator](https://github.com/wmitsuda/mdbx-navigator) - A simple UI for browsing libmdbx databases
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
+
+## WebAssembly 
+
+- [samirose/sicp-compiler-project](https://github.com/samirose/sicp-compiler-project) - A Scheme to WAT/WASM compiler in spirit of SICP exercises 5.49-52
+
+## Zig 
+
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 
 
 ## License
