@@ -80,6 +80,7 @@
 
 ## HTML 
 
+- [ethereum/builder-specs](https://github.com/ethereum/builder-specs) - Specification for the external block builders.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [libp2p/docs](https://github.com/libp2p/docs) - Documentation site for the libp2p project.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -214,6 +215,7 @@
 
 ## Swift 
 
+- [farzaa/clicky](https://github.com/farzaa/clicky) - 
 - [broadwaylamb/SuperMirror](https://github.com/broadwaylamb/SuperMirror) - If a Swift type conforms to CustomReflectable, it's hard to reverse engineer it. This single-file library makes it super easy.
 
 ## TeX 
